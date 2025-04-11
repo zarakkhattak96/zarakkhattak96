@@ -8,13 +8,13 @@ const aboutMe = {
   stack: "MERN Stack",
 
   summary:
-    "I'm a passionate full stack developer with expertise in the MERN stack,
+    `I'm a passionate full stack developer with expertise in the MERN stack,
     along with a strong command of modern backend and frontend tools. I love building
     scalable applications, automating workflows, and delivering clean, maintainable code.
 
     From developing APIs and databases to crafting sleek UI components, I enjoy working
     across the entire stack. I'm also experienced in mobile app development using React Native,
-    and I've integrated numerous third-party services into production systems.",
+    and I've integrated numerous third-party services into production systems.`,
 
   skills: [
     "JavaScript", "TypeScript", "React", "React Native", "Node.js", "Express",
