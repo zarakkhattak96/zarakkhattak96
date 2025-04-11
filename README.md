@@ -1,19 +1,21 @@
 # 💫 About Me:
 
 ```javascript
+
 const aboutMe = {
   name: "Zarak Khattak",
   role: "Full Stack Developer",
   stack: "MERN Stack",
-  summary: `
-    I'm a passionate full stack developer with deep expertise in the MERN stack,
+
+  summary:
+    I'm a passionate full stack developer with expertise in the MERN stack,
     along with a strong command of modern backend and frontend tools. I love building
     scalable applications, automating workflows, and delivering clean, maintainable code.
-    
+
     From developing APIs and databases to crafting sleek UI components, I enjoy working
     across the entire stack. I'm also experienced in mobile app development using React Native,
-    and I've integrated numerous third-party services into production systems.
-  `,
+    and I've integrated numerous third-party services into production systems.,
+
   skills: [
     "JavaScript", "TypeScript", "React", "React Native", "Node.js", "Express",
     "MongoDB", "PostgreSQL", "MySQL",
@@ -23,7 +25,9 @@ const aboutMe = {
     "Material UI", "Ant Design",
     "Redux", "Tailwind CSS", "Next.js", "REST APIs", "Git"
   ],
+
   currentFocus: "Exploring modern ORM tools, building full-stack apps with Next.js and React Native, and improving cloud deployment skills",
+
   hobbies: ["Building side projects", "Exploring new tools", "Gaming", "Tech blogging"]
 };
 
