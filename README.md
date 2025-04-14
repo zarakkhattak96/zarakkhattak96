@@ -18,7 +18,7 @@ const aboutMe = {
     and I've integrated numerous third-party services into production systems.`,
 
   skills: [
-    "JavaScript", "TypeScript", "React", "React Native", "Node.js", "Express",
+    "JavaScript", "TypeScript", "React", "React Native", "Node.js", "Express", "NestJS",
     "MongoDB", "PostgreSQL", "MySQL",
     "Prisma", "Sequelize", "TypeORM", "DrizzleORM",
     "Supabase", "Firebase",
